@@ -1,10 +1,10 @@
-package gittest;
+package thymeleaf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GittestApplicationTests {
+class ThymeleafApplicationTests {
 
 	@Test
 	void contextLoads() {
